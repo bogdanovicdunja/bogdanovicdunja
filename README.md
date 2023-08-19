@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dunja Bogdanovic</h1>
-<h3 align="center">A student of software development</h3>
+<h3 align="center">A student of data science</h3>
 
 - 🔭 I’m currently studying **Data science at Faculty of Technical Sciences.**
 
